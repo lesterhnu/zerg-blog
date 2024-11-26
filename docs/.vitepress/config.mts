@@ -15,7 +15,7 @@ import { blogTheme } from './blog-theme'
 export default defineConfig({
   // 继承博客主题(@sugarat/theme)
   extends: blogTheme,
-  // base,
+  base:"zerg-blog",
   lang: 'zh-cn',
   title: "Lester's Blog",
   description: 'blog',
