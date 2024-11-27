@@ -1,6 +1,7 @@
 ---
 title: 关于我
-top: 1
 ---
 
 # about me  
+
+Email: [lesterhnu@gmail.com](lesterhnu@gmail.com)
